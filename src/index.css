@@ -1,0 +1,15 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 100px;
+  font: bold;
+  font-style: bold;
+  color: rgba(40, 41, 41, 0.945);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  /* monospace */
+}
+
+code {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
