@@ -10,7 +10,7 @@ https://curriculum-authoring-tool-akash.netlify.app
 
 https://www.loom.com/share/37b1b9623e94494f9db78304a9c813c5
 
-## Basic Functionalities Implemented
+## Functionalities 
 
 - Row actions
 
@@ -19,17 +19,12 @@ https://www.loom.com/share/37b1b9623e94494f9db78304a9c813c5
   - Move/Drag(Up & Down) feature
 
 - Editable text in each row
-
-## Bonus Functionalities Implemented
-
+ 
 - Load/Save feature to save the Curriculum as a JSON file
-  and load it when need.
+  and load it when needed.
 
-  - Matches the url
 
-- Hosted the working app in Netlify
-
-## Frameworks used in this
+## Libraries used 
 
 - React.js
 
