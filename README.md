@@ -2,8 +2,6 @@
 
 A tool made for educators to author the curriculum of subjects
 
-- This Project was made for Toddle Internship Frontend Assignment
-
 ## Link to Deployed Website
 
 https://curriculum-authoring-tool-akash.netlify.app
